@@ -21,7 +21,7 @@ This plugin is experimental and is provided with no support or warranty.
 
 == Copyright ==
 
-Rather Simple Social Menu is distributed under the terms of the GNU GPL
+Rather Simple Polylang REST API is distributed under the terms of the GNU GPL
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

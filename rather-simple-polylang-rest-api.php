@@ -10,7 +10,7 @@
  * Author URI: http://oscarciutat.com/code/
  * Text Domain: rather-simple-polylang-rest-api
  * Domain Path: /languages
- * Description: A really simple social menu
+ * Description: Adds REST API support to the free version of Polylang
  * License: GPLv2 or later
  *
  * This program is free software; you can redistribute it and/or modify
