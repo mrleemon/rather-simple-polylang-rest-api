@@ -7,11 +7,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds REST API support to the free version of Polylang 
+Adds basic REST API support to the free version of Polylang 
 
 == Description ==
 
-Adds REST API support to the free version of Polylang 
+Adds basic REST API support to the free version of Polylang 
 
 This plugin is experimental and is provided with no support or warranty. 
 
